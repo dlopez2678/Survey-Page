@@ -222,6 +222,10 @@ footer {
 
 }
 
+span {
+    font-size: .70em;
+}
+
 @media(max-width: 500px) {
     #extra-comments {
         grid-area: inputt;
