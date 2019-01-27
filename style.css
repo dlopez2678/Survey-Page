@@ -223,27 +223,11 @@ footer {
 }
 
 @media(max-width: 500px) {
-    .header-footer {
-        background-color: black;
-    }
-
     #extra-comments {
         grid-area: inputt;
         resize: none;
         overflow-y: scroll;
         width: 10em;
         height: 6em;
-    }
-
-    #name {
-        max-width: 13em;
-    }
-
-    #last-name {
-
-    }
-
-    #email {
-        
     }
 }
